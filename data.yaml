@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bien_so']
+
+roboflow:
+  workspace: duongduchuy-918zk
+  project: license-qfv4m
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/duongduchuy-918zk/license-qfv4m/dataset/2
