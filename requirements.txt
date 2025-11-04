@@ -1,0 +1,7 @@
+ultralytics==8.3.12
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==10.2.0
+tk==0.1.0
+torch>=2.0.0
+torchvision>=0.15.0
