@@ -1,0 +1,53 @@
+11 Cao Bằng
+12 Lạng Sơn
+14 Quảng Ninh
+15 Hải Phòng
+17 Thái Bình
+18 Nam Định
+19 Phú Thọ
+20 Thái Nguyên
+21 Yên Bái
+22 Tuyên Quang
+23 Hà Giang
+24 Lào Cai
+25 Lai Châu
+26 Sơn La
+27 Điện Biên
+28 Hòa Bình
+29 Hà Nội
+30 Hà Nội
+31 Hà Nội
+33 Hà Nội
+34 Hải Dương
+35 Ninh Bình
+36 Thanh Hóa
+37 Nghệ An
+38 Hà Tĩnh
+43 Đà Nẵng
+47 Đắk Lắk
+48 Đắk Nông
+49 Lâm Đồng
+50 TP. Hồ Chí Minh
+51 TP. Hồ Chí Minh
+52 TP. Hồ Chí Minh
+53 TP. Hồ Chí Minh
+54 TP. Hồ Chí Minh
+55 TP. Hồ Chí Minh
+56 Bà Rịa - Vũng Tàu
+60 Đồng Nai
+61 Bình Dương
+62 Long An
+63 Tiền Giang
+64 Vĩnh Long
+65 Cần Thơ
+66 Đồng Tháp
+67 An Giang
+68 Kiên Giang
+69 Cà Mau
+70 Tây Ninh
+72 Bà Rịa – Vũng Tàu
+73 Quảng Bình
+74 Quảng Trị
+75 Thừa Thiên Huế
+99 Bắc Ninh 
+95 Hậu Giang 
